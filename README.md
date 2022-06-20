@@ -5,6 +5,12 @@
 # Hungry-Hungry-Puppos
 A raspberry pi based pet feeder / treat dispenser of any small objects.
 
+It includes:
+1. food dispenser
+2. water dispenser
+3. treat dispenser
+4. door opener
+
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-lime.svg)
 <br/><br/><br/>
