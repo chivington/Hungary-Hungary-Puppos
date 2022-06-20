@@ -1,0 +1,20 @@
+{
+  "name": "chivington.casa",
+  "short_name": "chivington.casa",
+  "description": "Personal Raspberry Pi-based home server for controlling various home automation projects. Written in the Unity UI application framework - a custom, native-app-like web application framework I developed.",
+  "icons": [
+        {
+            "src": "/imgs/icons/manifest/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/imgs/icons/manifest/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
