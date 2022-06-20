@@ -3,14 +3,15 @@
 </p>
 
 # Hungry-Hungry-Puppos
-A raspberry pi based pet feeder / treat dispenser of any small objects.
+A raspberry pi based pet feeder / treat dispenser of any small objects. It includes:
 
-It includes:
 1. food dispenser
 2. water dispenser
 3. treat dispenser
 4. door opener
 5. dog's room camera
+
+I created this automation system because I am working 12 hr days and wanted to be able to feed Mullis and let him out during the day. Currently, the camera feed and treat dispenser are operational. The hardware and code are in place to operate the door opening system, but I'm printing worm gears because the motors are salvaged from cordless power tools to save money and make the system more reproducible. Instead of buying high torque motors, which are very expensive, a gearing system will enable the use of cheap, low torque motors to open & close the deadbolt and door.
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-lime.svg)
@@ -39,7 +40,7 @@ It includes:
 
 
 ## Usage
-This repo is only meant for viewing.
+This repo is only meant for viewing. You can visit [chivington.casa:3000](https://chivington.net) to see Mullis in his room and feed him a treat.
 
 Feel free to ask me questions on [GitHub](https://github.com/chivington)
 <br/><br/>
