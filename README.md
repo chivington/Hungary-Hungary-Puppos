@@ -1,8 +1,8 @@
 <p align="center">
-  <img width='350' src='https://github.com/chivington/Hungry-Hungry-Puppos/blob/main/imgs/hungry-hungry-puppos.png' alt='Hungry Hungry Puppo Logo'/>
+  <img width='350' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/imgs/hungry-hungry-puppos.png' alt='Hungry Hungry Puppo Logo'/>
 </p>
 
-# Hungry-Hungry-Puppos
+# Hungry-Hungry-Doggos
 A raspberry pi based pet feeder / treat dispenser of any small objects. It includes:
 
 1. food dispenser
@@ -30,13 +30,13 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 <br/><br/><br/>
 
 ## Contents
-* [Prerequisites](https://github.com/chivington/Hungry-Hungry-Puppos/tree/master#prerequisites)
-* [Installation](https://github.com/chivington/Hungry-Hungry-Puppos/tree/master#installation)
-* [Usage](https://github.com/chivington/Hungry-Hungry-Puppos/tree/master#usage)
-* [Authors](https://github.com/chivington/Hungry-Hungry-Puppos/tree/master#authors)
-* [Contributing](https://github.com/chivington/Hungry-Hungry-Puppos/tree/master#contributing)
-* [Acknowledgments](https://github.com/chivington/Hungry-Hungry-Puppos/tree/master#acknowledgments)
-* [License](https://github.com/chivington/Hungry-Hungry-Puppos/tree/master#license)
+* [Prerequisites](https://github.com/chivington/Hungry-Hungry-Doggos/tree/master#prerequisites)
+* [Installation](https://github.com/chivington/Hungry-Hungry-Doggos/tree/master#installation)
+* [Usage](https://github.com/chivington/Hungry-Hungry-Doggos/tree/master#usage)
+* [Authors](https://github.com/chivington/Hungry-Hungry-Doggos/tree/master#authors)
+* [Contributing](https://github.com/chivington/Hungry-Hungry-Doggos/tree/master#contributing)
+* [Acknowledgments](https://github.com/chivington/Hungry-Hungry-Doggos/tree/master#acknowledgments)
+* [License](https://github.com/chivington/Hungry-Hungry-Doggos/tree/master#license)
 <br/>
 
 ## Prerequisites
@@ -46,7 +46,7 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 
 ## Installation
 ```bash
-  git clone https://github.com/chivington/Hungry-Hungry-Puppos.git
+  git clone https://github.com/chivington/Hungry-Hungry-Doggos.git
 ```
 <br/>
 
