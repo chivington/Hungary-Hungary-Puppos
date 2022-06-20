@@ -11,7 +11,7 @@ A raspberry pi based pet feeder / treat dispenser of any small objects. It inclu
 4. door opener
 5. dog's room camera
 
-I created this automation system because I am working 12 hr days and wanted to be able to feed Mullis and let him out during the day. Currently, the camera feed and treat dispenser are operational. The hardware and code are in place to operate the door opening system, but I'm printing worm gears because the motors are salvaged from cordless power tools to save money and make the system more reproducible. Instead of buying high torque motors, which are very expensive, a gearing system will enable the use of cheap, low torque motors to open & close the deadbolt and door.
+I created this automation system because I am working 12 hr days and wanted to be able to feed Mullis and let him out during the day. Currently, the camera feed and treat dispenser are operational. Contact me by email to find out how to access the camera feed and feed him a treat. The hardware and code are in place to operate the door opening system, but I'm printing worm gears because the motors are salvaged from cordless power tools to save money and make the system more reproducible. Instead of buying high torque motors, which are very expensive, a gearing system will enable the use of cheap, low torque motors to open & close the deadbolt and door.
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-lime.svg)
