@@ -10,6 +10,7 @@ It includes:
 2. water dispenser
 3. treat dispenser
 4. door opener
+5. dog's room camera
 
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-lime.svg)
