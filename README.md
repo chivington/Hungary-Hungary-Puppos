@@ -15,6 +15,16 @@ I created this automation system because I am working 12 hr days and wanted to b
 
 The hardware and code are in place to operate the door opening system, but I'm printing worm gears because the motors are salvaged from cordless power tools to save money and make the system more reproducible. Instead of buying high torque motors, which are very expensive, a gearing system will enable the use of cheap, low torque motors to open & close the deadbolt and door.
 
+<br/>
+The system consists of:
+
+1. An Nginx server that serves the main app
+2. A Motion server that serves the camera feed
+3. A Sanic server that serves the controls UI
+4. The combination UI/state management Unity framework I created (See [Unity](https://github.com/chivington/Unity) for details)
+
+Nginx serves the main app and proxies to the other servers for the camera feed and controls UI, which are embedded in the main app. Sanic is chosen for the controls due to it's asynchronous nature, which allows me to call controls subroutines without tying up threads.
+
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-lime.svg)
 <br/><br/><br/>
