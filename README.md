@@ -52,7 +52,7 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 
 
 ## Usage
-This repo is only meant for viewing. You can visit [chivington.casa:3000](https://chivington.net) to see Mullis in his room and feed him a treat.
+This repo is only meant for viewing. You can visit [chivington.casa:3000](https://chivington.casa:3000) to see Mullis in his room and feed him a treat.
 
 Feel free to ask me questions on [GitHub](https://github.com/chivington)
 <br/><br/>
