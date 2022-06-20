@@ -1,5 +1,5 @@
 <p align="center">
-  <img width='350' src='https://github.com/chivington/Hungry-Hungry-Puppos/blob/main/imgs/hungry-puppo.png' alt='Hungry Hungry Puppo Logo'/>
+  <img width='350' src='https://github.com/chivington/Hungry-Hungry-Puppos/blob/main/imgs/hungry-hungry-puppos.png' alt='Hungry Hungry Puppo Logo'/>
 </p>
 
 # Hungry-Hungry-Puppos
