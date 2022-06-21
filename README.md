@@ -3,9 +3,10 @@
 </p>
 
 # Hungry-Hungry-Doggos
-A raspberry pi based automation system for dispensing food, water and treats for my pup while I'm at work.
 ![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
 ![License](https://img.shields.io/badge/license-NONE-lime.svg)
+
+A raspberry pi based automation system for dispensing food, water and treats for my pup while I'm at work.
 <br/><br/><br/>
 
 ## Contents
