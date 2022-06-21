@@ -49,35 +49,29 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 
 
 ## Demos
-<!-- <p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/vids/treat-dispenser-success.mp4' alt='Treat Dispenser Success Demo Video'/>
-</p><br/> -->
-
-<!-- [<img src="https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/vids/treat-dispenser-success.mp4" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Treat Dispenser Success Demo Video")<br/> -->
-
-
-
-
+Treat Dispensing Demo Video
 https://user-images.githubusercontent.com/24964429/174873610-c4c7db5f-8ea6-4d92-94f4-364ae518c337.mp4
 
 
+Treat Dispenser Base
+https://user-images.githubusercontent.com/24964429/174874051-fa0083ff-ec69-4ba3-8e67-42a11005a69c.mp4
 
 
-<p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-base.mp4' alt='Treat Dispenser Base Demo Video'/>
-</p><br/>
+Pupdate 1
+https://user-images.githubusercontent.com/24964429/174875104-c0a4a0bb-4bba-4e0d-bb4b-2cec6142fa4c.mp4
 
-<p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-top-mk1.mp4' alt='Treat Dispenser Top Mk1 Demo Video'/>
-</p><br/>
 
-<p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-mounted-and-wired.mp4' alt='Treat Dispenser Mounted and Wired Demo Video'/>
-</p><br/>
+Treat Dispenser Top Mk1
+https://user-images.githubusercontent.com/24964429/174874145-4ca97863-3cc7-4e68-9d87-b736e29ddfe8.mp4
 
-<p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/common/conduit-6.mp4' alt='Conduit Overview Video'/>
-</p><br/>
+
+Pupdate 2
+![pupdate-2](https://user-images.githubusercontent.com/24964429/174874708-56cb90f2-fee4-4a61-bfb5-30cf4edf2ec6.jpg)
+
+
+Treat Dispenser Mounted and Wired Video
+https://user-images.githubusercontent.com/24964429/174874821-aa6835d1-f87f-4570-b442-89a3c7ebe728.mp4
+
 
 
 ## Prerequisites
