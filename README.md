@@ -82,6 +82,7 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 </p><br/>
 
 <p align="center"><a href='https://www.youtube.com/watch?v=9fRc9NTDaVI'>Treat Dispenser Top Mk2</a></p>
+<p align="center">I switched from the simpler slider design on the treat slots to slots that are completely enclosed. This helps keep treats from sliding out of place as the top spins, causing blockages that stop the motor from turning.</p>
 <p align="center">
 	<img width='500' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/pics/treat-dispenser-top-mk2.jpg' alt='Treat Dispenser Top Mk2'/>
 </p><br/>
