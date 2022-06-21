@@ -57,6 +57,10 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 
 [![Treat Dispenser Demo Video]](https://youtube.com/shorts/ociCMAOihpY?feature=share)
 
+<a href="https://youtube.com/shorts/ociCMAOihpY?feature=share" target="_blank">
+ <img src="https://youtube.com/shorts/ociCMAOihpY?feature=share" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 <p align="center">
   <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-base.mp4' alt='Treat Dispenser Base Demo Video'/>
 </p><br/>
