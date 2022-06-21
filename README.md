@@ -67,7 +67,7 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 <p align="center"><a href='https://www.youtube.com/watch?v=4pwwZXnbxE4'>Pupdate 1</a></p>
 <p align="center">He's helped enough. Time for a break.</p>
 <p align="center">
-	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/pupdates/thmubs/pupdate-1.jpg' alt='Pupdate 1'/>
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/pupdates/thumbs/pupdate-1.jpg' alt='Pupdate 1'/>
 </p><br/>
 
 <p align="center"><a href='https://www.youtube.com/watch?v=9fRc9NTDaVI'>Treat Dispenser Mounted and Wired</a></p>
