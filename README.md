@@ -50,8 +50,7 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 
 ## Demos
 Treat Dispensing Demo Video
-https://user-images.githubusercontent.com/24964429/174873610-c4c7db5f-8ea6-4d92-94f4-364ae518c337.mp4
-
+https://user-images.githubusercontent.com/24964429/174877010-c751a0a0-b258-46f1-b6cb-56718e211074.mp4
 
 
 ## Prerequisites
