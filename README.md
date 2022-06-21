@@ -49,29 +49,43 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 
 
 ## Demos
+<p align="center"><a href='https://www.youtube.com/shorts/ociCMAOihpY'>Treat Dispenser Demo Video</a></p>
 <p align="center">
-	<a href='https://youtube.com/shorts/ociCMAOihpY?feature=share'>Treat Dispenser Demo Video</a>
-</p>
-<p align="center">
-	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/thmubs/treat-dispenser-demo.jpg' alt='Treat Dispenser Success Demo Video'/>
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/thmubs/treat-dispenser-demo.jpg' alt='Treat Dispenser Demo Video'/>
 </p><br/>
 
-
+<p align="center"><a href='https://www.youtube.com/watch?v=4pwwZXnbxE4'>Treat Dispenser Base Video</a></p>
 <p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-base.mp4' alt='Treat Dispenser Base Demo Video'/>
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/thmubs/treat-dispenser-base.jpg' alt='Treat Dispenser Base Video'/>
 </p><br/>
 
+<p align="center"><a href='https://www.youtube.com/watch?v=_TVUuBkYftk'>Treat Dispenser Top Mk1</a></p>
 <p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-top-mk1.mp4' alt='Treat Dispenser Top Mk1 Demo Video'/>
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/thmubs/treat-dispenser-top-mk1.jpg' alt='Treat Dispenser Top Mk1'/>
 </p><br/>
 
+<p align="center"><a href='https://www.youtube.com/watch?v=4pwwZXnbxE4'>Pupdate 1</a></p>
+<p align="center">He's helped enough. Time for a break.</p>
 <p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-mounted-and-wired.mp4' alt='Treat Dispenser Mounted and Wired Demo Video'/>
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/pupdates/thmubs/pupdate-1.jpg' alt='Pupdate 1'/>
 </p><br/>
 
+<p align="center"><a href='https://www.youtube.com/watch?v=9fRc9NTDaVI'>Treat Dispenser Mounted and Wired</a></p>
 <p align="center">
-  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/common/conduit-6.mp4' alt='Conduit Overview Video'/>
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/thmubs/treat-dispenser-mounted-and-wired.jpg' alt='Treat Dispenser Mounted and Wired'/>
 </p><br/>
+
+<p align="center"><a href='https://www.youtube.com/watch?v=4pwwZXnbxE4'>Pupdate 2</a></p>
+<p align="center">Pup break is going well.</p>
+<p align="center">
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/pupdates/pupdate-2.jpg' alt='Pupdate 1'/>
+</p><br/>
+
+<p align="center"><a href='https://www.youtube.com/watch?v=9fRc9NTDaVI'>Treat Dispenser Top Mk2</a></p>
+<p align="center">
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/pics/treat-dispenser-top-mk2.jpg' alt='Treat Dispenser Top Mk2'/>
+</p><br/>
+
 
 
 ## Prerequisites
