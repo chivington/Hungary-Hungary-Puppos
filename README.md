@@ -53,26 +53,6 @@ Treat Dispensing Demo Video
 https://user-images.githubusercontent.com/24964429/174873610-c4c7db5f-8ea6-4d92-94f4-364ae518c337.mp4
 
 
-Treat Dispenser Base
-https://user-images.githubusercontent.com/24964429/174874051-fa0083ff-ec69-4ba3-8e67-42a11005a69c.mp4
-
-
-Pupdate 1
-https://user-images.githubusercontent.com/24964429/174875104-c0a4a0bb-4bba-4e0d-bb4b-2cec6142fa4c.mp4
-
-
-Treat Dispenser Top Mk1
-https://user-images.githubusercontent.com/24964429/174874145-4ca97863-3cc7-4e68-9d87-b736e29ddfe8.mp4
-
-
-Pupdate 2
-![pupdate-2](https://user-images.githubusercontent.com/24964429/174874708-56cb90f2-fee4-4a61-bfb5-30cf4edf2ec6.jpg)
-
-
-Treat Dispenser Mounted and Wired Video
-https://user-images.githubusercontent.com/24964429/174874821-aa6835d1-f87f-4570-b442-89a3c7ebe728.mp4
-
-
 
 ## Prerequisites
   * None
