@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+	</head>
+	<style media="screen">
+		.btn {
+			display:flex; flex-direction:row; justify-content:center; align-items:center;
+		    width:5em; margin:1em auto; padding:1em 2em; font-size:1.5; color:#fff; border:1px solid #369; background:#369;
+			text-align: center;
+		}
+	</style>
+	<body>
+		<p class="btn" id="dispense_treat">Gib Treat</p>
+
+		<script type="text/javascript">
+			async function request(service) {
+				let response = await fetch(`/${service}`, {
+					method: 'POST',
+					mode: 'cors',
+					cache: 'no-cache',
+					credentials: 'same-origin',
+					headers: { 'Content-Type': 'application/json', 'Allow': 'POST' },
+					redirect: 'follow',
+					referrerPolicy: 'no-referrer',
+					body: `I'm sending you a ${service} request.`
+				});
+				if (!response.ok) window.alert('Please try again...');
+				return await response.json();
+			};
+
+			document.getElementById('dispense_treat').addEventListener('click', () => {
+				console.log('dispensing treat!');
+				request('treat').then(data => console.log(data))
+			});
+		</script>
+	</body>
+</html>
