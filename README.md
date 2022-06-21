@@ -49,12 +49,11 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 
 
 ## Demos
-<!-- [Treat Dispenser Demo Video](https://youtube.com/shorts/ociCMAOihpY?feature=share) -->
-<p align="center">
-	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/thmubs/treat-dispenser-demo.jpg' alt='Treat Dispenser Success Demo Video'/>
-</p>
 <p align="center">
 	<a href='https://youtube.com/shorts/ociCMAOihpY?feature=share'>Treat Dispenser Demo Video</a>
+</p>
+<p align="center">
+	<img height='300' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/thmubs/treat-dispenser-demo.jpg' alt='Treat Dispenser Success Demo Video'/>
 </p><br/>
 
 
