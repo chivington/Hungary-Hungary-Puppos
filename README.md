@@ -49,8 +49,27 @@ Nginx serves the main app and proxies to the other servers for the camera feed a
 
 
 ## Demos
-Treat Dispensing Demo Video
-https://user-images.githubusercontent.com/24964429/174877010-c751a0a0-b258-46f1-b6cb-56718e211074.mp4
+<!-- <p align="center">
+  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/vids/treat-dispenser-success.mp4' alt='Treat Dispenser Success Demo Video'/>
+</p><br/> -->
+
+<!-- [<img src="https://github.com/chivington/Hungry-Hungry-Doggos/blob/main/media/treat-dispenser/vids/treat-dispenser-success.mp4" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Treat Dispenser Success Demo Video")<br/> -->
+
+<p align="center">
+  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-base.mp4' alt='Treat Dispenser Base Demo Video'/>
+</p><br/>
+
+<p align="center">
+  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-top-mk1.mp4' alt='Treat Dispenser Top Mk1 Demo Video'/>
+</p><br/>
+
+<p align="center">
+  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/treat-dispenser/treat-dispenser-mounted-and-wired.mp4' alt='Treat Dispenser Mounted and Wired Demo Video'/>
+</p><br/>
+
+<p align="center">
+  <img width='600' src='https://github.com/chivington/Hungry-Hungry-Doggos/blob/master/media/common/conduit-6.mp4' alt='Conduit Overview Video'/>
+</p><br/>
 
 
 ## Prerequisites
